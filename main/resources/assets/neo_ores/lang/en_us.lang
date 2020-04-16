@@ -1,0 +1,64 @@
+#English
+itemGroup.neo_ores_tab=Neo Ores II
+
+tile.undite_block.name=Undite Block
+tile.mana_workbench.name=Mana Crafting Table
+tile.mana_furnace.name=Mana Fusion Furnace
+tile.mana_block.name=Mana Block
+
+item.undite.name=Undite
+item.gnomite_ingot.name=Gnomite Ingot
+item.salamite.name=Salamite
+item.sylphite.name=Sylphite
+item.sanitite.name=Sanitite
+item.marlite_ingot.name=Marlite Ingot
+item.aerite.name=Aerite
+item.drenite.name=Drenite
+item.guardite_ingot.name=Guardite Ingot
+item.landite_ingot.name=Landite Ingot
+item.flamite.name=Flamite
+item.forcite.name=Forcite
+item.essence.0.name=Earth Essence
+item.essence.1.name=Water Essence
+item.essence.2.name=Fire Essence
+item.essence.3.name=Air Essence
+item.air_essence_core.name=Air Essence Core
+item.earth_essence_core.name=Earth Essence Core
+item.fire_essence_core.name=Fire Essence Core
+item.water_essence_core.name=Water Essence Core
+item.mana_ingot.name=Mana Ingot
+
+item.undite_axe.name=Undite Axe
+item.undite_hoe.name=Undite Hoe
+item.undite_pickaxe.name=Undite PickAxe
+item.undite_shovel.name=Undite Shovel
+item.undite_sword.name=Undite Sword
+item.undite_helmet.name=Undite Helmet
+item.undite_chestplate.name=Undite Chestplate
+item.undite_leggings.name=Undite Leggings
+item.undite_boots.name=Undite Boots
+
+tooltip.water=Water Providence
+tooltip.fire=Fire Providence
+tooltip.earth=Earth Providence
+tooltip.air=Air Providence
+armortip.water=Water Blessing
+armortip.fire=Fire Blessing
+armortip.earth=Earth Blessing
+armortip.air=Air Blessing
+
+tier.1=I
+tier.2=II
+tier.3=III
+tier.4=IV
+tier.5=V
+tier.6=VI
+tier.7=VII
+tier.8=VIII
+
+gui.overlay.level=Level
+gui.overlay.mana=Mana
+
+container.mana_workbench=Mana Crafting Table
+container.mana_workbench.cost=Mana
+container.mana_furnace=Mana Fusion Furnace

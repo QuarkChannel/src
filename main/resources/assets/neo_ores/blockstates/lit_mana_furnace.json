@@ -1,0 +1,9 @@
+{
+	"forge_marker": 1,
+	"variants": {
+        "facing=north": { "model": "lit_mana_furnace"},
+        "facing=south": { "model": "lit_mana_furnace", "y" : 90},
+        "facing=west":  { "model": "lit_mana_furnace", "y" : 180},
+        "facing=east":  { "model": "lit_mana_furnace", "y" : 270}
+    }
+}

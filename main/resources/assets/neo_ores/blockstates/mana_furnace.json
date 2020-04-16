@@ -1,0 +1,10 @@
+{
+	"forge_marker": 1,
+	"variants": 
+	{
+        "facing=north": { "model": "mana_furnace" ,"uvlock": false},
+        "facing=south": { "model": "mana_furnace","uvlock": false},
+        "facing=west":  { "model": "mana_furnace","uvlock": false },
+        "facing=east":  { "model": "mana_furnace","uvlock": false}
+    }
+}
